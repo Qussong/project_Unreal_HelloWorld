@@ -26,7 +26,14 @@ Hello World
 <b>[ Youtube URL ]</b></br>
 $\color{#4F4F4F}(\ ↓ 이미지\ 클릭시\ 해당\ 페이지로\ 이동합니다.↓\ )$</br>
 <a href="https://youtu.be/3WtWpuiZKHQ?si=RhyvdUjwbz10e-NU">
-    <img src="./ReadMe/HelloWorld.png" alt="HelloWorld 영상" width="400"/>
+    <img src="./ReadMe/Youtube.png" alt="HelloWorld 영상" width="400"/>
+</a>
+</br>
+
+<b>[ 기술문서 URL ]</b></br>
+$\color{#4F4F4F}(\ ↓ 이미지\ 클릭시\ 해당\ 페이지로\ 이동합니다.↓\ )$</br>
+<a href="https://docs.google.com/presentation/d/1fuKG9BoitK53O4hCPgpFncsSIA7RVoT0V5RxG0D7CQY/edit?usp=sharing">
+    <img src="./ReadMe/HelloWorld.png" alt="HelloWorld 기술문서" width="400"/>
 </a>
 </br>
 
